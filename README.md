@@ -48,7 +48,3 @@ This will start the Expo development server and provide you with options to run 
 - JavaScript/TypeScript
 - CSS-in-JS (styled-components or any styling approach of your choice)
 
-## Contributing 🤝
-Contributions are welcome! Feel free to fork the project, make improvements, and submit pull requests. Please adhere to the project's coding standards and guidelines.
-
-Happy coding! 🚀👩‍💻👨‍💻
